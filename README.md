@@ -1,1 +1,1 @@
-Basic Unity 3D Project Template, no extra assets or packages.
+Basic Unity 2D Project Template, no extra assets or packages.
